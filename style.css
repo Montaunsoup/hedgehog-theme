@@ -1,0 +1,133 @@
+<style>
+
+       h1 {      
+                
+        }
+
+    .pink-text {
+        font-family: 'Prompt', sans-serif; 
+        color: #E79887;
+        text-align: center;
+        text-shadow: 2px 2px #111111;
+        font-size: 30px;
+        background-color: #3E4357;
+        margin: 0 -9999rem;
+        padding: 0.25rem 9999rem; 
+        }
+  
+    #background  {
+        background-color: #3E4357;
+        margin: auto;
+        padding:5px;
+        width: 650px;
+        color: #fff9ee;
+        font-family: 'Prompt', 'sans-serif'; 
+}
+    .headline {
+        position: relative;
+        top: 30px;
+        font-size: 19px;
+}
+
+        div {
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-direction: column;
+        
+}
+     .thin-teal-border {
+       border-color: #97D5D8;
+       border-width: 5px;
+       border-style: solid;
+       border-radius: 15px;
+       
+  }
+   body { 
+        background-color: #585F6D; 
+        line-height: 1.5;
+      }
+
+
+    #image {
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+     }
+
+    #main {
+     
+     }  
+     
+    #title {
+     
+     } 
+
+    #img-div {
+      
+     }
+
+    #img-caption {
+       margin: 10px;  
+     }
+
+    .text-style1 {
+        display:flex;
+        justify-content: center;
+        position: relative;
+        bottom: 28px;
+}
+
+     .text-style2 {
+         font-family: 'Hind Siliguri', sans-serif;
+         font-size:20px;
+         padding-top: 25px;
+         color: #DCE2EA;      
+ }
+
+     .text-style3{
+        font-family: 'Hind Siliguri', sans-serif;
+        font-size:17px;
+        color: #fff9ee;       
+ }
+  
+.headline {
+         margin: auto;
+         padding:5px;
+         width: 650px;
+         text-align: center;   
+}
+
+    .ul {
+        line-height: 2.87;
+        font-size: 15.5px;
+        margin: 80px;
+        font-family: 'Prompt', sans-serif;
+        color: #fff9ee;  
+}      
+      
+    .blockquote {
+        margin: auto;
+        text-align: center;
+        margin-top: 50px;
+        font-family: 'Segoe UI';
+        background-color: #5B616D;
+        width: 550px;   
+}
+
+    .learn {
+        font-family: 'Hind Siliguri', sans-serif;
+        font-size: x-large;
+        color: #fff9ee;        
+}
+ 
+    #tribute-link {
+        color: rgb(231, 143, 42)
+
+}
+    #tribute-info {
+  
+}
+     
+   </style>
